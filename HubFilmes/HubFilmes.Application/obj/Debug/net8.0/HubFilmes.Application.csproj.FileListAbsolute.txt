@@ -1,0 +1,17 @@
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\bin\Debug\net8.0\HubFilmes.Application.deps.json
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\bin\Debug\net8.0\HubFilmes.Application.dll
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\bin\Debug\net8.0\HubFilmes.Application.pdb
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\bin\Debug\net8.0\HubFilmes.Domain.dll
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\bin\Debug\net8.0\HubFilmes.Infra.Data.dll
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\bin\Debug\net8.0\HubFilmes.Infra.Data.pdb
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\bin\Debug\net8.0\HubFilmes.Domain.pdb
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\obj\Debug\net8.0\HubFilmes.Application.csproj.AssemblyReference.cache
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\obj\Debug\net8.0\HubFilmes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\obj\Debug\net8.0\HubFilmes.Application.AssemblyInfoInputs.cache
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\obj\Debug\net8.0\HubFilmes.Application.AssemblyInfo.cs
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\obj\Debug\net8.0\HubFilmes.Application.csproj.CoreCompileInputs.cache
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\obj\Debug\net8.0\HubFilme.A96442D6.Up2Date
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\obj\Debug\net8.0\HubFilmes.Application.dll
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\obj\Debug\net8.0\refint\HubFilmes.Application.dll
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\obj\Debug\net8.0\HubFilmes.Application.pdb
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Application\obj\Debug\net8.0\ref\HubFilmes.Application.dll

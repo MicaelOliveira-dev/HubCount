@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C659EFC1-F3F6-4C33-B1D8-7B3B814013CF}|HubFilmes.Domain\\HubFilmes.Domain.csproj|c:\\users\\micael\\source\\repos\\hubfilmes\\hubfilmes.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C659EFC1-F3F6-4C33-B1D8-7B3B814013CF}|HubFilmes.Domain\\HubFilmes.Domain.csproj|solutionrelative:hubfilmes.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355978FC-D3E1-4F8A-A836-0EC5EEB1733F}|HubFilmes.Application\\HubFilmes.Application.csproj|c:\\users\\micael\\source\\repos\\hubfilmes\\hubfilmes.application\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355978FC-D3E1-4F8A-A836-0EC5EEB1733F}|HubFilmes.Application\\HubFilmes.Application.csproj|solutionrelative:hubfilmes.application\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7BF212-7F2C-425B-B7F4-EC003B6BC132}|HubFilmes\\HubFilmes.API.csproj|c:\\users\\micael\\source\\repos\\hubfilmes\\hubfilmes\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7BF212-7F2C-425B-B7F4-EC003B6BC132}|HubFilmes\\HubFilmes.API.csproj|solutionrelative:hubfilmes\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7BF212-7F2C-425B-B7F4-EC003B6BC132}|HubFilmes\\HubFilmes.API.csproj|c:\\users\\micael\\source\\repos\\hubfilmes\\hubfilmes\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7BF212-7F2C-425B-B7F4-EC003B6BC132}|HubFilmes\\HubFilmes.API.csproj|solutionrelative:hubfilmes\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355978FC-D3E1-4F8A-A836-0EC5EEB1733F}|HubFilmes.Application\\HubFilmes.Application.csproj|c:\\users\\micael\\source\\repos\\hubfilmes\\hubfilmes.application\\hub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355978FC-D3E1-4F8A-A836-0EC5EEB1733F}|HubFilmes.Application\\HubFilmes.Application.csproj|solutionrelative:hubfilmes.application\\hub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6034CD80-924D-4C2E-9B74-361896CB5F77}|HubFilmes.Infrastructure\\HubFilmes.Infra.Ioc.csproj|c:\\users\\micael\\source\\repos\\hubfilmes\\hubfilmes.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6034CD80-924D-4C2E-9B74-361896CB5F77}|HubFilmes.Infrastructure\\HubFilmes.Infra.Ioc.csproj|solutionrelative:hubfilmes.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0F0D8-A242-4CC3-B427-7C4DDDB8F36E}|HubFilmes.Core\\HubFilmes.Infra.Data.csproj|c:\\users\\micael\\source\\repos\\hubfilmes\\hubfilmes.core\\repositories\\authuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA0F0D8-A242-4CC3-B427-7C4DDDB8F36E}|HubFilmes.Core\\HubFilmes.Infra.Data.csproj|solutionrelative:hubfilmes.core\\repositories\\authuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0F0D8-A242-4CC3-B427-7C4DDDB8F36E}|HubFilmes.Core\\HubFilmes.Infra.Data.csproj|c:\\users\\micael\\source\\repos\\hubfilmes\\hubfilmes.core\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA0F0D8-A242-4CC3-B427-7C4DDDB8F36E}|HubFilmes.Core\\HubFilmes.Infra.Data.csproj|solutionrelative:hubfilmes.core\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C659EFC1-F3F6-4C33-B1D8-7B3B814013CF}|HubFilmes.Domain\\HubFilmes.Domain.csproj|c:\\users\\micael\\source\\repos\\hubfilmes\\hubfilmes.domain\\enums\\egenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C659EFC1-F3F6-4C33-B1D8-7B3B814013CF}|HubFilmes.Domain\\HubFilmes.Domain.csproj|solutionrelative:hubfilmes.domain\\enums\\egenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C659EFC1-F3F6-4C33-B1D8-7B3B814013CF}|HubFilmes.Domain\\HubFilmes.Domain.csproj|c:\\users\\micael\\source\\repos\\hubfilmes\\hubfilmes.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C659EFC1-F3F6-4C33-B1D8-7B3B814013CF}|HubFilmes.Domain\\HubFilmes.Domain.csproj|solutionrelative:hubfilmes.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355978FC-D3E1-4F8A-A836-0EC5EEB1733F}|HubFilmes.Application\\HubFilmes.Application.csproj|c:\\users\\micael\\source\\repos\\hubfilmes\\hubfilmes.application\\security\\hasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355978FC-D3E1-4F8A-A836-0EC5EEB1733F}|HubFilmes.Application\\HubFilmes.Application.csproj|solutionrelative:hubfilmes.application\\security\\hasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7BF212-7F2C-425B-B7F4-EC003B6BC132}|HubFilmes\\HubFilmes.API.csproj|c:\\users\\micael\\source\\repos\\hubfilmes\\hubfilmes\\controllers\\authusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7BF212-7F2C-425B-B7F4-EC003B6BC132}|HubFilmes\\HubFilmes.API.csproj|solutionrelative:hubfilmes\\controllers\\authusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Domain\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "HubFilmes.Domain\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Domain\\Entities\\Movie.cs",
+              "RelativeToolTip": "HubFilmes.Domain\\Entities\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:28:11.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Application\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "HubFilmes.Application\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Application\\Services\\MovieService.cs",
+              "RelativeToolTip": "HubFilmes.Application\\Services\\MovieService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:24:21.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "HubFilmes\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "HubFilmes\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwE0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:23:18.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "HubFilmes\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "HubFilmes\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:19:42.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "HubFilmes.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "HubFilmes.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:15:55.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Core\\Repositories\\AuthUserRepository.cs",
+              "RelativeDocumentMoniker": "HubFilmes.Core\\Repositories\\AuthUserRepository.cs",
+              "ToolTip": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Core\\Repositories\\AuthUserRepository.cs",
+              "RelativeToolTip": "HubFilmes.Core\\Repositories\\AuthUserRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:15:47.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Core\\Context\\DbContext.cs",
+              "RelativeDocumentMoniker": "HubFilmes.Core\\Context\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Core\\Context\\DbContext.cs",
+              "RelativeToolTip": "HubFilmes.Core\\Context\\DbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:15:34.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EGenre.cs",
+              "DocumentMoniker": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Domain\\Enums\\EGenre.cs",
+              "RelativeDocumentMoniker": "HubFilmes.Domain\\Enums\\EGenre.cs",
+              "ToolTip": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Domain\\Enums\\EGenre.cs",
+              "RelativeToolTip": "HubFilmes.Domain\\Enums\\EGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:15:24.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HubFilmes.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "HubFilmes.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:15:20.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hasher.cs",
+              "DocumentMoniker": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Application\\Security\\Hasher.cs",
+              "RelativeDocumentMoniker": "HubFilmes.Application\\Security\\Hasher.cs",
+              "ToolTip": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Application\\Security\\Hasher.cs",
+              "RelativeToolTip": "HubFilmes.Application\\Security\\Hasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:15:04.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Application\\Hub\\ChatHub.cs",
+              "RelativeDocumentMoniker": "HubFilmes.Application\\Hub\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes.Application\\Hub\\ChatHub.cs",
+              "RelativeToolTip": "HubFilmes.Application\\Hub\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:14:52.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes\\Controllers\\AuthUserController.cs",
+              "RelativeDocumentMoniker": "HubFilmes\\Controllers\\AuthUserController.cs",
+              "ToolTip": "C:\\Users\\Micael\\source\\repos\\HubFilmes\\HubFilmes\\Controllers\\AuthUserController.cs",
+              "RelativeToolTip": "HubFilmes\\Controllers\\AuthUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:14:07.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

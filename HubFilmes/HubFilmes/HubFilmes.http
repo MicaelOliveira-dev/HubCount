@@ -1,0 +1,6 @@
+@HubFilmes_HostAddress = http://localhost:5124
+
+GET {{HubFilmes_HostAddress}}
+Accept: application/json
+
+###

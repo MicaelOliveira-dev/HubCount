@@ -1,0 +1,12 @@
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Domain\bin\Debug\net8.0\HubFilmes.Domain.deps.json
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Domain\bin\Debug\net8.0\HubFilmes.Domain.dll
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Domain\bin\Debug\net8.0\HubFilmes.Domain.pdb
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Domain\obj\Debug\net8.0\HubFilmes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Domain\obj\Debug\net8.0\HubFilmes.Domain.AssemblyInfoInputs.cache
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Domain\obj\Debug\net8.0\HubFilmes.Domain.AssemblyInfo.cs
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Domain\obj\Debug\net8.0\HubFilmes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Domain\obj\Debug\net8.0\HubFilmes.Domain.dll
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Domain\obj\Debug\net8.0\refint\HubFilmes.Domain.dll
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Domain\obj\Debug\net8.0\HubFilmes.Domain.pdb
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Domain\obj\Debug\net8.0\ref\HubFilmes.Domain.dll
+C:\Users\Micael\source\repos\HubFilmes\HubFilmes.Domain\obj\Debug\net8.0\HubFilmes.Domain.csproj.AssemblyReference.cache
